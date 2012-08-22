@@ -12,8 +12,10 @@ http://romansky.github.com/androidtalk0812/talk.html
 
 ActionBarSherlock
 * https://github.com/JakeWharton/ActionBarSherlock
+
 OTTO
 * https://github.com/square/otto/
+
 Google GSON
 * http://code.google.com/p/google-gson/
 
