@@ -22,8 +22,7 @@ Notification Framework
 !
 
 Activity life cycle
-![Activity life cycle]("./activity_lifecycle.png")
-<img src="activity_lifecycle.png"></img>
+![Activity life cycle]("./talkassets/activity_lifecycle.png")
 
 
 !
