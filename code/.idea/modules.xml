@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libs/JakeWharton-ActionBarSherlock-88fc341/library/ABS.iml" filepath="$PROJECT_DIR$/libs/JakeWharton-ActionBarSherlock-88fc341/library/ABS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidtalk240812.iml" filepath="$PROJECT_DIR$/androidtalk240812.iml" />
+    </modules>
+  </component>
+</project>
+

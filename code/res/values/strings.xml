@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">androidtalk240812</string>
+    <string name="main__examples_list__string">Examples list</string>
+    <string name="notification_demo__button">show simple notification</string>
+    <string name="notification_demo__inbox_text">show \"inbox style\" notification</string>
+    <string name="notification_demo__bigpicture_text">show \"big picture\" style notification</string>
+    <string name="notification_demo__bigtext_text">show \"big text\" style notification</string>
+    <string name="abs_demo__title_text">ActionBarSherlock Demo</string>
+    <string name="abs_demo__menu_nada">NADA</string>
+    <string name="otto_demo__image_button_desciption">Trigger Event</string>
+    <string name="google_gson_demo__title_text">JSON string</string>
+    <string name="todo_app__add_todo_button">Add</string>
+    <string name="todo_item_editor__done_editing_button">Done Editing</string>
+    <string name="todo_item_editor__done_task_button">Done Task</string>
+    <string name="todo_item_editor__cancel_button">Cancel</string>
+</resources>
