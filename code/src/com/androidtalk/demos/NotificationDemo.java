@@ -140,6 +140,9 @@ public class NotificationDemo extends Activity {
 		builder.setSmallIcon(android.R.drawable.btn_plus);
 		// set priority (for API level 16 devices)
 		builder.setPriority(Notification.PRIORITY_DEFAULT);
+		// add action button to a notification
+		builder.addAction(android.R.drawable.btn_star, "Like", pendingIntent);
+		builder.addAction(android.R.drawable.btn_minus, "Dislike", pendingIntent);
 		return builder;
 	}
 
