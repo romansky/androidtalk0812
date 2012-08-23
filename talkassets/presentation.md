@@ -14,9 +14,9 @@ Jelly Beans Notification Framework
 * Included with the new v4 (ver10) BC package! [2]
 * Read the very good UX overview page [1]
 
-[1] (Official UX page)[developer.android.com/design/patterns/notifications.htmli]
+[1] - [Official UX page](developer.android.com/design/patterns/notifications.htmli)
 <br/>
-[2] (BC package release notes)[http://developer.android.com/tools/extras/support-library.html#Notes]
+[2] - [BC package release notes](http://developer.android.com/tools/extras/support-library.html#Notes)
 
 !
 
