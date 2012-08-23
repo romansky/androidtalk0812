@@ -10,11 +10,19 @@ http://romansky.github.com/androidtalk0812/talk.html
 
 ### Links
 
-ABS
-* [Devices market share by version](http://developer.android.com/about/dashboards/index.html)
+ActionBarSherlock
+* https://github.com/JakeWharton/ActionBarSherlock
+
+OTTO
+* https://github.com/square/otto/
+
+Google GSON
+* http://code.google.com/p/google-gson/
+
+More links are in the presentation.
 
 ### Code
 
 The Android application source code is under /code
-Tha final APK is here ...
+There's also an APK if you want to install the demo's and play aorund with them.
 
